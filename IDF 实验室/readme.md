@@ -7,3 +7,4 @@
     * [ASCII 码而已](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=32)
     * [聪明的小羊](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=52)
     * [摩斯密码](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=33)
+    * [啥?](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=30)
