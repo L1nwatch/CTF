@@ -1,14 +1,14 @@
 ## 题目
 只给了一张图片:
 
-![题目]()
+![题目](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/STEGA%E4%B8%87%E9%87%8C%E5%AF%BB%E8%B8%AA/%E7%BA%A2%E4%B8%8E%E9%BB%91/problem.jpg?raw=true)
 
 ## write up
 
 看了writeUp后知道只要改变一下图片的曝光度就可以看到字符串了，还有些人用py把图片处理了一下。详看answer.py
 自己是用PS把图片搞搞得到的：
 
-![PS 调整得到]()
+![PS 调整得到](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/STEGA%E4%B8%87%E9%87%8C%E5%AF%BB%E8%B8%AA/%E7%BA%A2%E4%B8%8E%E9%BB%91/after_ps.png?raw=true)
 
 wctf{h0w_Can_Make_A_Steg}
 
