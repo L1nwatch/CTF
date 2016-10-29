@@ -21,3 +21,5 @@
         * [简单的js解密](IDF 实验室/WEB天罗地网/简单的js解密/readme.md)
         * [你关注最新的漏洞吗](IDF 实验室/WEB天罗地网/你关注最新的漏洞吗/readme.md)
         * [一种编码而已](IDF 实验室/WEB天罗地网/一种编码而已/readme.md)
+    * [STEGA万里寻踪](IDF 实验室/STEGA万里寻踪/readme.md)
+        * [图片里的秘密](IDF 实验室/STEGA万里寻踪/图片里的秘密/readme.md)

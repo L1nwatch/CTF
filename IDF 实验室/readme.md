@@ -22,6 +22,11 @@
     * [简单的js解密](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=43)
     * [你关注最新的漏洞吗](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=44)
     * [一种编码而已](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=47)
+* [STEGA万里寻踪](http://ctf.idf.cn/index.php?g=game&m=list&a=index&id=23)
+    * [图片里的秘密](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=27)
+    * [上帝也哭泣](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=48)
+    * [红与黑](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=59)
+    * [任务管理器中的秘密(无write_up)](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=53)
 
 ## 参考资料
 * [IDF实验室-部分简单题目writeup](http://blog.csdn.net/ab748998806/article/details/46277341)
