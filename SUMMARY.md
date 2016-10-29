@@ -23,3 +23,5 @@
         * [一种编码而已](IDF 实验室/WEB天罗地网/一种编码而已/readme.md)
     * [STEGA万里寻踪](IDF 实验室/STEGA万里寻踪/readme.md)
         * [图片里的秘密](IDF 实验室/STEGA万里寻踪/图片里的秘密/readme.md)
+        * [上帝也哭泣](IDF 实验室/STEGA万里寻踪/上帝也哭泣/readme.md)
+        * [红与黑](IDF 实验室/STEGA万里寻踪/红与黑/readme.md)
