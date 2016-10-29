@@ -14,5 +14,5 @@ http://discogscounter.getfreehosting.co.uk/js-noalnum.php?txt=alert%28%22hi+ther
 将题目的一大堆[](![]复制进去，点击
 alert( eval( --v ) )得到密码：
 
-![解密结果]()
+![解密结果](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/WEB%E5%A4%A9%E7%BD%97%E5%9C%B0%E7%BD%91/%E4%B8%80%E7%A7%8D%E7%BC%96%E7%A0%81%E8%80%8C%E5%B7%B2/after_decrypt.png?raw=true)
 

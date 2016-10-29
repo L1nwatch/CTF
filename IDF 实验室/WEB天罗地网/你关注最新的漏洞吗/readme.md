@@ -5,7 +5,7 @@
 ## Write Up
 下载后得到一个后缀名为pcapng的文件，百度了之后知道使用 WireShark 打开的。打开后得到：
 
-![from_WireShark]()
+![from_WireShark](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/WEB%E5%A4%A9%E7%BD%97%E5%9C%B0%E7%BD%91/%E4%BD%A0%E5%85%B3%E6%B3%A8%E6%9C%80%E6%96%B0%E7%9A%84%E6%BC%8F%E6%B4%9E%E5%90%97/wireshark.png?raw=true)
 
 百度了一下KRB5，知道了是：
 Kerberos
