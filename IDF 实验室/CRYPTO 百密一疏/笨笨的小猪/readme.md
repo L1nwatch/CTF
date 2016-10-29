@@ -4,11 +4,15 @@
 答案格式wctf{明文}
 
 # write up
-看CoolShell解密游戏的时候才发现这个是猪圈密码。。。如图，对应一下就得到了
+看CoolShell解密游戏的时候才发现这个是猪圈密码。。。如图，对应一下就得到了：
 
-![猪圈密码](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pigpen_cipher_key.svg/460px-Pigpen_cipher_key.svg.png)
+下面这张记忆起来方便一些：
 
-![猪圈密码](http://d.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=c4f84348bb99a9012f3853647cfc611e/4ec2d5628535e5dd3cd93a8375c6a7efcf1b62f1.jpg)
+![猪圈密码](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/CRYPTO%20%E7%99%BE%E5%AF%86%E4%B8%80%E7%96%8F/%E7%AC%A8%E7%AC%A8%E7%9A%84%E5%B0%8F%E7%8C%AA/%E7%8C%AA%E5%9C%88%E5%AF%86%E7%A0%811.png?raw=true)
+
+这一张对照起来方便一些：
+
+![猪圈密码](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/CRYPTO%20%E7%99%BE%E5%AF%86%E4%B8%80%E7%96%8F/%E7%AC%A8%E7%AC%A8%E7%9A%84%E5%B0%8F%E7%8C%AA/%E7%8C%AA%E5%9C%88%E5%AF%86%E7%A0%812.jpg?raw=true)
 
 最终答案: `wctf{LMNQKRNP}`
 
