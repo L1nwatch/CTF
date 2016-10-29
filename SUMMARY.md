@@ -6,7 +6,7 @@
         * [ASCII 码而已](IDF 实验室/牛刀小试/ASCII 码而已/readme.md)
         * [聪明的小羊](IDF 实验室/牛刀小试/聪明的小羊/readme.md)
         * [摩斯密码](IDF 实验室/牛刀小试/摩斯密码/readme.md)
-        * [啥?](IDF 实验室/牛刀小试/啥?/readme.md)
+        * [啥?](IDF 实验室/牛刀小试/啥/readme.md)
     * [CRYPTO 百密一疏](IDF 实验室/CRYPTO 百密一疏/readme.md)
         * [笨笨的小猪](IDF 实验室/CRYPTO 百密一疏/笨笨的小猪/readme.md)
         * [凯撒加密](IDF 实验室/CRYPTO 百密一疏/凯撒加密/readme.md)
