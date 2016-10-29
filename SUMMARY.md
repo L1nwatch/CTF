@@ -13,3 +13,5 @@
         * [孔子的学费](IDF 实验室/CRYPTO 百密一疏/孔子的学费/readme.md)
         * [特殊的日子](IDF 实验室/CRYPTO 百密一疏/特殊的日子/readme.md)
         * [伟人的名字](IDF 实验室/CRYPTO 百密一疏/伟人的名字/readme.md)
+    * [WEB天罗地网](http://ctf.idf.cn/index.php?g=game&m=list&a=index&id=22)
+        * [COOKIE欺骗](IDF 实验室/WEB天罗地网/COOKIE欺骗/readme.md)

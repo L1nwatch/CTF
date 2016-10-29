@@ -1,0 +1,9 @@
+# 题目清单
+* [WEB天罗地网](http://ctf.idf.cn/index.php?g=game&m=list&a=index&id=22)
+    * [COOKIE欺骗](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=40)
+    * [不难不易的js加密](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=28)
+    * [古老的邮件编码](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=41)
+    * [超简单的js题](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=42)
+    * [简单的js解密](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=43)
+    * [你关注最新的漏洞吗](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=44)
+    * [一种编码而已](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=47)
