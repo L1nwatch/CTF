@@ -25,3 +25,7 @@
         * [图片里的秘密](IDF 实验室/STEGA万里寻踪/图片里的秘密/readme.md)
         * [上帝也哭泣](IDF 实验室/STEGA万里寻踪/上帝也哭泣/readme.md)
         * [红与黑](IDF 实验室/STEGA万里寻踪/红与黑/readme.md)
+    * [PPC初探乾坤](IDF 实验室/PPC初探乾坤/readme.md)
+        * [简单编程-字符统计](IDF 实验室/PPC初探乾坤/简单编程-字符统计/readme.md)
+        * [Fuck your brain](IDF 实验室/PPC初探乾坤/Fuck your brain/readme.md)
+        * [谁是卧底](IDF 实验室/PPC初探乾坤/谁是卧底/readme.md)

@@ -27,6 +27,10 @@
     * [上帝也哭泣](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=48)
     * [红与黑](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=59)
     * [任务管理器中的秘密(无write_up)](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=53)
+* [PPC初探乾坤](http://ctf.idf.cn/index.php?g=game&m=list&a=index&id=18)
+    * [简单编程-字符统计](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=37)
+    * [谁是卧底](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=49)
+    * [Fuck your brain](http://ctf.idf.cn/index.php?g=game&m=article&a=index&id=54)
 
 ## 参考资料
 * [IDF实验室-部分简单题目writeup](http://blog.csdn.net/ab748998806/article/details/46277341)
