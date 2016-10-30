@@ -9,11 +9,11 @@ Write_up里说跟PE文件差不多，自己用IDA一看还真是差不多，所�
 
 回头看到write_up说是在函数开头部分重新定义了，所以关键是跑到那一串地方去把字符串给搞出来：
 
-![1]()
+![1](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/REVERSE%E5%80%92%E8%A1%8C%E9%80%86%E6%96%BD/%E7%AE%80%E5%8D%95%E7%9A%84ELF%E9%80%86%E5%90%91/1.png?raw=true)
 
 把这些全都转成10进制，然后又由于这回代码取字符串的方式不太一样：
 
-![2]()
+![2](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/REVERSE%E5%80%92%E8%A1%8C%E9%80%86%E6%96%BD/%E7%AE%80%E5%8D%95%E7%9A%84ELF%E9%80%86%E5%90%91/2.png?raw=true)
 
 算成10进制后还得除以2，所以用python脚本解决一下：
 
@@ -27,7 +27,7 @@ for each in List:
 
 后半部分还是跟上次的一样：
 
-![3]()
+![3](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/REVERSE%E5%80%92%E8%A1%8C%E9%80%86%E6%96%BD/%E7%AE%80%E5%8D%95%E7%9A%84ELF%E9%80%86%E5%90%91/3.png?raw=true)
 
 提取出来是 `0823}`
 组合一起提交了：`wctf{ElF_lnX_Ckl_0823}`

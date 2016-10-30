@@ -8,7 +8,7 @@
 
 自己猜测是，14+17的那几个数字全都转成ascii码就是了，看下write_up。看完懂了，
 
-![1]()
+![1](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/REVERSE%E5%80%92%E8%A1%8C%E9%80%86%E6%96%BD/%E7%AE%80%E5%8D%95%E7%9A%84PE%E6%96%87%E4%BB%B6%E9%80%86%E5%90%91/1.png?raw=true)
 
 的意思不是取变量 14 开始的值，而是从数组 `byte_415768` 中取索引值（变量14所表示的值）的字符出来。
 该数组就是：`swfxc{gdv}fwfctslydRddoepsckaNDMSRITPNsmr1_=2cdsef66246087138`
@@ -26,7 +26,7 @@ for each in List:
 
 后半部分为：
 
-![2]()
+![2](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/REVERSE%E5%80%92%E8%A1%8C%E9%80%86%E6%96%BD/%E7%AE%80%E5%8D%95%E7%9A%84PE%E6%96%87%E4%BB%B6%E9%80%86%E5%90%91/2.png?raw=true)
 
 把这后面依次转为ascii：
 ```python
