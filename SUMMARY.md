@@ -33,3 +33,6 @@
         * [简单的PE文件逆向](IDF 实验室/REVERSE倒行逆施/简单的PE文件逆向/readme.md)
         * [简单的ELF逆向](IDF 实验室/REVERSE倒行逆施/简单的ELF逆向/readme.md)
         * [python ByteCode](IDF 实验室/REVERSE倒行逆施/python ByteCode/readme.md)
+    * [MISC包罗万象](IDF 实验室/MISC包罗万象/readme.md)
+        * [图片里的英语](IDF 实验室/MISC包罗万象/图片里的英语/readme.md)
+        * [抓到一只苍蝇](IDF 实验室/MISC包罗万象/抓到一只苍蝇/readme.md)
