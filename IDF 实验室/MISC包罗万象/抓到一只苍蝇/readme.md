@@ -154,3 +154,16 @@ Export > Selected Packet Bytes…	 	导出当前在Packet byte面版选择的�
 
 http://blog.csdn.net/jasonhwang/article/details/5525700
 
+## `all2media_type.py`
+
+```python
+for i in range( 1,6 ) :
+    with open( str( i ) + "_all.txt","r" ) as f :
+        data = f.read()
+        
+        position = data.find( "abcd9876" )
+        with open( str( i ) + "_media_type.txt","w+" ) as f1:
+            data = data[ position: ]
+            f1.write( data )
+```
+
