@@ -5,7 +5,7 @@
 首字母中的首字母要大写，答案格式是wctf{一坨首字母}
 加油吧少年！看好你哦~
 
-![problem]()
+![problem](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E5%9B%BE%E7%89%87%E9%87%8C%E7%9A%84%E8%8B%B1%E8%AF%AD/problem.png?raw=true)
 
 ## write up
 
@@ -16,7 +16,7 @@
 把这张图片放到百度识图，搜索得到是赵本山的一张剧照。
 http://shitu.baidu.com/
 
-![solve]()
+![solve](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E5%9B%BE%E7%89%87%E9%87%8C%E7%9A%84%E8%8B%B1%E8%AF%AD/solve.png?raw=true)
 
 依旧没有英文。
 百度这句台词：

@@ -18,7 +18,7 @@ PS：flag写错了，太麻烦也懒得改了，格式还是wctf{...}，大家�
 
 下载下来是一个抓包得到的文件 `misc_fly.pcapng`，用 wireshark 打开，看到提示说找到第13个包 POST 包。打开内容得到
 
-![1]()
+![1](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87/1.png?raw=true)
 
 可以知道这里是上传（提示说是上传，其实也有可能是下载不是么。。。）了一个 `fly.rar`，以及该文件的md5 还有 sha 码
 
@@ -26,11 +26,11 @@ PS：flag写错了，太麻烦也懒得改了，格式还是wctf{...}，大家�
 
 得到结果：
 
-![2]()
+![2](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87/2.png?raw=true)
 
 查看这几个包的内容，发现倒数第二个包（其实我看了提示之后直接去看倒数第二个包的内容了）
 
-![3]()
+![3](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87/3.png?raw=true)
 
 仔细浏览包的内容，可以知道这是数据包的内容：一封带附件的邮件
 
@@ -49,7 +49,7 @@ PS：flag写错了，太麻烦也懒得改了，格式还是wctf{...}，大家�
 
 在 POST 结果中继续搜，发现这5个包：
 
-![4]()
+![4](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87/4.png?raw=true)
 
 `/ftn_hander` 表示这可能就是上传的包的内容，自己把这5个包的内容的拷贝出来
 
@@ -118,7 +118,7 @@ if __name__ == '__main__':
 
 只需将文件开头处0x74位后面的0x84位置改为0x80即可
 
-![5]()
+![5](https://github.com/L1nwatch/CTF/blob/master/IDF%20%E5%AE%9E%E9%AA%8C%E5%AE%A4/MISC%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/%E6%8A%93%E5%88%B0%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87/5.png?raw=true)
 
 修改后顺利解压，得到 `flag.txt`。
 
