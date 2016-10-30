@@ -29,3 +29,7 @@
         * [简单编程-字符统计](IDF 实验室/PPC初探乾坤/简单编程-字符统计/readme.md)
         * [Fuck your brain](IDF 实验室/PPC初探乾坤/Fuck your brain/readme.md)
         * [谁是卧底](IDF 实验室/PPC初探乾坤/谁是卧底/readme.md)
+    * [REVERSE倒行逆施](IDF 实验室/REVERSE倒行逆施/readme.md)
+        * [简单的PE文件逆向](IDF 实验室/REVERSE倒行逆施/简单的PE文件逆向/readme.md)
+        * [简单的ELF逆向](IDF 实验室/REVERSE倒行逆施/简单的ELF逆向/readme.md)
+        * [python ByteCode](IDF 实验室/REVERSE倒行逆施/python ByteCode/readme.md)
