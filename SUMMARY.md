@@ -39,3 +39,6 @@
 * [实验吧](实验吧/readme.md)
     * [WEB](实验吧/WEB/readme.md)
         * [登陆一下好吗??](实验吧/WEB/登陆一下好吗/readme.md)
+        * [注入](实验吧/WEB/注入/readme.md)
+        * [简单的sql注入](实验吧/WEB/简单的sql注入/readme.md)
+        * [Forms](实验吧/WEB/Forms/readme.md)
